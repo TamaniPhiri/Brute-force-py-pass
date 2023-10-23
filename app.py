@@ -16,3 +16,4 @@ while(sample_pwd!=pwd):
     
     if(sample_pwd==list(pwd)):
         print("The password is : "+ "".join(sample_pwd))
+        break
